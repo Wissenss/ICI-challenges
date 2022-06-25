@@ -1,4 +1,4 @@
-# Some solutions I find to diferent competitive programming problems 
+# Some solutions I found to diferent competitive programming problems 
 
 
 ## Index
