@@ -7,35 +7,36 @@
 3. [Kana and Dragon Quest game](https://github.com/Wissenss/ICI-challenges/edit/main/readme.md#kana-and-dragon-quest-game)
 
 ## Parkway Walk
-**Problem**
-- [Codeforces](https://codeforces.com/problemset/problem/1697/A)
+[**Problem**](https://codeforces.com/problemset/problem/1697/A)
 
-**Solution**
+[**Solution**](1697A.cpp)
 - Language: C++
 - Time: 15 ms
 - Memory: 0 KB
 
 ## Where's the Bishop?
-**Problem**
-- [Codeforces](https://codeforces.com/problemset/problem/1692/C)
+[**Problem**](https://codeforces.com/problemset/problem/1692/C)
 
-**Solution**
+[**Solution**](1692C.cpp)
 - Language: C++
 - Time: # ms
 - Memory: # KB
 
 ## Kana and Dragon Quest game
-**Problem**
-- [Codeforces](https://codeforces.com/problemset/problem/1337/B)
+[**Problem**](https://codeforces.com/problemset/problem/1337/B)
 
-**Solution**
+[**Solution**](1337B.cpp)
 - Language: C++
 - Time: 15 ms
 - Memory: 0 KB
 
+[**Alternative Solution**](1337B.py)
+- Language: Python
+- Time: 62 ms
+- Memory: 0 KB
+
 ## PizzaForces
-**Problem**
-- [Codeforces](https://codeforces.com/problemset/problem/1555/A)
+[**Problem**](https://codeforces.com/problemset/problem/1555/A)
 
 [**Solution**](1555A.cpp)
 - Language: C++
@@ -43,8 +44,7 @@
 - Memory: 0 KB
 
 ## The Doors
-**Problem**
-- [Codeforces](https://codeforces.com/problemset/problem/1143/A)
+[**Problem**](https://codeforces.com/problemset/problem/1143/A)
 
 [**Solution**](1143A.cpp)
 - Language: C++
