@@ -1,11 +1,12 @@
-# Some solutions I found to diferent competitive programming problems 
+# Some solutions I found to different competitive programming problems 
 
 
 ## Index
-1. [Parkway Walk](https://github.com/Wissenss/ICI-challenges/edit/main/readme.md#parkway-walk) 
-2. [Where's the Bishop?](https://github.com/Wissenss/ICI-challenges/edit/main/readme.md#wheres-the-bishop)
-3. [Kana and Dragon Quest game](https://github.com/Wissenss/ICI-challenges/edit/main/readme.md#kana-and-dragon-quest-game)
+1. [Parkway Walk](#ref1) 
+2. [Where's the Bishop?](#ref2)
+3. [Kana and Dragon Quest game](#ref3)
 
+<a name='ref1'/>
 ## Parkway Walk
 [**Problem**](https://codeforces.com/problemset/problem/1697/A)
 
@@ -14,6 +15,7 @@
 - Time: 15 ms
 - Memory: 0 KB
 
+<a name='ref2'/>
 ## Where's the Bishop?
 [**Problem**](https://codeforces.com/problemset/problem/1692/C)
 
@@ -22,6 +24,7 @@
 - Time: # ms
 - Memory: # KB
 
+<a name='ref3'/>
 ## Kana and Dragon Quest game
 [**Problem**](https://codeforces.com/problemset/problem/1337/B)
 
