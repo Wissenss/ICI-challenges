@@ -37,7 +37,7 @@
 **Problem**
 - [Codeforces](https://codeforces.com/problemset/problem/1555/A)
 
-**Solution**
+[**Solution**](1555A.cpp)
 - Language: C++
 - Time: 62 ms
 - Memory: 0 KB
@@ -46,7 +46,7 @@
 **Problem**
 - [Codeforces](https://codeforces.com/problemset/problem/1143/A)
 
-**Solution**
+[**Solution**](1143A.cpp)
 - Language: C++
 - Time: 109 ms
 - Memory: 0 KB
