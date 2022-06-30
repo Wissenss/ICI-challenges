@@ -5,8 +5,11 @@
 1. [Parkway Walk](#ref1) 
 2. [Where's the Bishop?](#ref2)
 3. [Kana and Dragon Quest game](#ref3)
+4. [PizzaForces](#ref4)
+5. [The Doors](#ref5)
 
 <a name='ref1'/>
+
 ## Parkway Walk
 [**Problem**](https://codeforces.com/problemset/problem/1697/A)
 
@@ -16,6 +19,7 @@
 - Memory: 0 KB
 
 <a name='ref2'/>
+
 ## Where's the Bishop?
 [**Problem**](https://codeforces.com/problemset/problem/1692/C)
 
@@ -25,6 +29,7 @@
 - Memory: # KB
 
 <a name='ref3'/>
+
 ## Kana and Dragon Quest game
 [**Problem**](https://codeforces.com/problemset/problem/1337/B)
 
@@ -38,6 +43,8 @@
 - Time: 62 ms
 - Memory: 0 KB
 
+<a name='ref4'/>
+
 ## PizzaForces
 [**Problem**](https://codeforces.com/problemset/problem/1555/A)
 
@@ -45,6 +52,8 @@
 - Language: C++
 - Time: 62 ms
 - Memory: 0 KB
+
+<a name='ref5'/>
 
 ## The Doors
 [**Problem**](https://codeforces.com/problemset/problem/1143/A)
