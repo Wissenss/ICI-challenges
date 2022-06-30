@@ -9,7 +9,6 @@
 ## Parkway Walk
 **Problem**
 - [Codeforces](https://codeforces.com/problemset/problem/1697/A)
-- github
 
 **Solution**
 - Language: C++
@@ -19,7 +18,6 @@
 ## Where's the Bishop?
 **Problem**
 - [Codeforces](https://codeforces.com/problemset/problem/1692/C)
-- github
 
 **Solution**
 - Language: C++
@@ -29,9 +27,26 @@
 ## Kana and Dragon Quest game
 **Problem**
 - [Codeforces](https://codeforces.com/problemset/problem/1337/B)
-- github
 
 **Solution**
 - Language: C++
 - Time: 15 ms
+- Memory: 0 KB
+
+## PizzaForces
+**Problem**
+- [Codeforces](https://codeforces.com/problemset/problem/1555/A)
+
+**Solution**
+- Language: C++
+- Time: 62 ms
+- Memory: 0 KB
+
+## The Doors
+**Problem**
+- [Codeforces](https://codeforces.com/problemset/problem/1143/A)
+
+**Solution**
+- Language: C++
+- Time: 109 ms
 - Memory: 0 KB
