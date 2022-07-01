@@ -8,6 +8,7 @@
 4. [PizzaForces](#ref4)
 5. [The Doors](#ref5)
 6. [Young Physicist](#ref6)
+7. [Theatre Square](#ref7)
 
 <a name='ref1'/>
 
@@ -72,4 +73,14 @@
 [**Solution**](69A.cpp)
 - Language: C++
 - Time: 30 ms
+- Memory: 0 KB
+
+<a name='ref7'/>
+
+## Theatre Square
+[**Problem**](https://codeforces.com/problemset/problem/1/A)
+
+[**Solution**](1A.cpp)
+- Language: C++
+- Time: 0 ms
 - Memory: 0 KB
