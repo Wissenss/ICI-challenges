@@ -9,6 +9,7 @@
 5. [The Doors](#ref5)
 6. [Young Physicist](#ref6)
 7. [Theatre Square](#ref7)
+8. [Cheap Travel](#ref8)
 
 <a name='ref1'/>
 
@@ -83,4 +84,14 @@
 [**Solution**](1A.cpp)
 - Language: C++
 - Time: 0 ms
+- Memory: 0 KB
+
+<a name='ref8'/>
+
+## Cheap Travel
+[**Problem**](https://codeforces.com/problemset/problem/466/A)
+
+[**Solution**](466A.cpp)
+- Language: C++
+- Time: 15 ms
 - Memory: 0 KB
