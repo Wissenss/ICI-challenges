@@ -7,6 +7,7 @@
 3. [Kana and Dragon Quest game](#ref3)
 4. [PizzaForces](#ref4)
 5. [The Doors](#ref5)
+6. [Young Physicist](#ref6)
 
 <a name='ref1'/>
 
@@ -61,4 +62,14 @@
 [**Solution**](1143A.cpp)
 - Language: C++
 - Time: 109 ms
+- Memory: 0 KB
+
+<a name='ref6'/>
+
+## Young Physicist
+[**Problem**](https://codeforces.com/problemset/problem/69/A)
+
+[**Solution**](69A.cpp)
+- Language: C++
+- Time: 30 ms
 - Memory: 0 KB
