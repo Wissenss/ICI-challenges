@@ -102,7 +102,7 @@
 ## Chat room
 [**Problem**](https://codeforces.com/problemset/problem/58/A)
 
-[**Solution**](466A.cpp)
+[**Solution**](58A.cpp)
 - Language: C++
 - Time: 15 ms
 - Memory: 0 KB
