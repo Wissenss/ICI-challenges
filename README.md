@@ -11,6 +11,7 @@
 7. [Theatre Square](#ref7)
 8. [Cheap Travel](#ref8)
 9. [Chat room](#ref9)
+10. [Borze](#ref10)
 
 <a name='ref1'/>
 
@@ -105,4 +106,14 @@
 [**Solution**](58A.cpp)
 - Language: C++
 - Time: 15 ms
+- Memory: 0 KB
+
+<a name='ref10'/>
+
+## Borze
+[**Problem**](https://codeforces.com/problemset/problem/32/B)
+
+[**Solution**](32B.cpp)
+- Language: C++
+- Time: 30 ms
 - Memory: 0 KB
