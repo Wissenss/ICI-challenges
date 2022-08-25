@@ -110,7 +110,7 @@
 
 <a name='ref10'/>
 
-## Chat room
+## Borze
 [**Problem**](https://codeforces.com/problemset/problem/32/B)
 
 [**Solution**](32B.cpp)
