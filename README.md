@@ -12,6 +12,7 @@
 8. [Cheap Travel](#ref8)
 9. [Chat room](#ref9)
 10. [Borze](#ref10)
+11. [Insomnia cure](#ref11)
 
 <a name='ref1'/>
 
@@ -114,6 +115,16 @@
 [**Problem**](https://codeforces.com/problemset/problem/32/B)
 
 [**Solution**](32B.cpp)
+- Language: C++
+- Time: 30 ms
+- Memory: 0 KB
+
+<a name='ref11'/>
+
+## Insomnia cure
+[**Problem**](https://codeforces.com/problemset/problem/148/A)
+
+[**Solution**](148A.cpp)
 - Language: C++
 - Time: 30 ms
 - Memory: 0 KB
