@@ -14,3 +14,4 @@
 |[Chat room](https://codeforces.com/problemset/problem/58/A)|[58A.cpp](58A.cpp)|C++|15|0|
 |[Borze](https://codeforces.com/problemset/problem/32/B)|[32B.cpp](32B.cpp)|C++|30|0|
 |[Insomnia cure](https://codeforces.com/problemset/problem/148/A)|[148A.cpp](148A.cpp)|C++|30|0|
+|[Boy or Girl](https://codeforces.com/problemset/problem/236/A)|[236A.cpp](236A.cpp)|C++|154|56|
