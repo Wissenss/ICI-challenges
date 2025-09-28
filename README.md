@@ -6,7 +6,7 @@ Some solutions I found to different competitive programming problems
 |[Parkway Walk](https://codeforces.com/problemset/problem/1697/A)|[1697A.cpp](1697A.cpp)|C++|15|0|
 |[Where's the Bishop?](https://codeforces.com/problemset/problem/1692/C)|[1692C.cpp](1692C.cpp)|C++|0|0|
 |[Kana and Dragon Quest game](https://codeforces.com/problemset/problem/1337/B)|[1337B.cpp](1337B.cpp)|C++|15|0|
-|[Kana and Dragon Quest game](https://codeforces.com/problemset/problem/1337/B)|[1337B.py]((1337B.py))|Python|62|0|
+|[Kana and Dragon Quest game](https://codeforces.com/problemset/problem/1337/B)|[1337B.py](1337B.py)|Python|62|0|
 |[PizzaForces](https://codeforces.com/problemset/problem/1555/A)|[1555A.cpp](1555A.cpp)|C++|62|0|
 |[The Doors](https://codeforces.com/problemset/problem/1143/A)|[1143A.cpp](1143A.cpp)|C++|109|0|
 |[Young Physicist](https://codeforces.com/problemset/problem/69/A)|[69A.cpp](69A.cpp)|C++|30|0|
