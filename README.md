@@ -18,3 +18,4 @@ Some solutions I found to different competitive programming problems
 |[Expression](https://codeforces.com/contest/479/problem/A)|[479A.cpp](479A.cpp)|C++|15|0
 |[Boy or Girl](https://codeforces.com/problemset/problem/236/A)|[236A.cpp](236A.cpp)|C++|154|56|
 |[Helpful Maths](https://codeforces.com/problemset/problem/339/A)|[339A.cpp](339A.cpp)|C++|124|0|
+|[Word Capitalization](https://codeforces.com/problemset/problem/281/A)|[281A.cpp](281A.cpp)|C++|122|0|
